@@ -8,8 +8,8 @@ Data analytics and machine learning portfolio covering the full data stack — f
 
 **Agentic AI (LangGraph and OpenAI)** — agentic workflow that autonomously trains, validates and selects the best machine learning model using LangGraph and GPT-4o-mini.
 
-**Python (EDA)** — exploratory data analysis on a retail orders dataset covering univariate, bivariate, multivariate analysis, customer segmentation with KMeans and statistical hypothesis testing.
+**Python (Data Preprocessing and EDA)** — Data Preprocessing and exploratory data analysis on a retail orders dataset covering univariate, bivariate, multivariate analysis, customer segmentation with KMeans and statistical hypothesis testing.
 
 **SQL** — relational database design with primary and foreign key constraints, analytical queries using window functions and subqueries, and views for reporting.
 
-**Power BI** — multi-page interactive dashboard with star schema data model, drill-through, decomposition tree, time series analysis and geographic map visuals.
+**Power BI** — multi-page interactive reports with star schema data model, drill-through, decomposition tree, time series analysis and geographic map visuals.
