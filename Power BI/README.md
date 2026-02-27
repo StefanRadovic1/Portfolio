@@ -1,4 +1,4 @@
-# Power BI — Sales & Profit Dashboard
+# Power BI
 
 Multi-page interactive dashboard built in Power BI for analyzing sales, profit, customers and delivery performance across regions, product categories and time periods.
 
