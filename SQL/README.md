@@ -4,7 +4,7 @@ Relational database covering table design, analytical queries and view creation 
 
 ## Tech Stack
 
-PostgreSQL, SQL
+PostgreSQL
 
 ## What's in this project
 
