@@ -8,7 +8,7 @@ Power BI, DAX
 
 ## Data Model
 
-Star schema with Fact Orders as the central fact table connected to three dimension tables: Date (one-to-many), Users/managers by region (one-to-many) and Returns (one-to-many).
+Star schema with Fact Orders as the central fact table connected to three dimension tables: Date (one-to-many), Users (one-to-many) and Returns (one-to-many).
 
 ## Dashboard Pages
 
