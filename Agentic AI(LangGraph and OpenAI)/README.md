@@ -10,7 +10,7 @@ Python, LangGraph, LangChain, Azure OpenAI (GPT-4o-mini), scikit-learn, pandas, 
 
 **Data Cleaning & Feature Engineering** — dropping rows with missing critical columns, outlier filtering, trip duration derived from timestamps, pickup hour and day of week extracted from datetime.
 
-**Model Training** — two models trained and evaluated on validation set: Linear Regression and Neural Network (MLPRegressor), both wrapped in a sklearn Pipeline with StandardScaler.
+**Model Training** — two models trained and evaluated on validation set: Linear Regression and Neural Network, both wrapped in a sklearn Pipeline with StandardScaler.
 
 **LangGraph Workflow** — four-node graph: train Linear Regression → train Neural Network → LLM agent decides → final test. Each node updates a shared typed state.
 
