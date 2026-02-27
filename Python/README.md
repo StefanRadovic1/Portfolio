@@ -1,4 +1,4 @@
-# Exploratory Data Analysis — Orders Dataset
+# Exploratory Data Analysis 
 
 EDA on a multi-region retail orders dataset loaded directly from a PostgreSQL database view, covering univariate, bivariate, multivariate analysis, statistical testing and customer segmentation.
 
