@@ -13,3 +13,5 @@ Data analytics and machine learning portfolio covering the full data stack — f
 **SQL** — relational database design with primary and foreign key constraints, analytical queries using window functions and subqueries, and views for reporting.
 
 **Power BI** — multi-page interactive reports with star schema data model, drill-through, decomposition tree, time series analysis and geographic map visuals.
+
+**Tableau** — two interactive dashboards built using calculated fields, parameters, action filters, relationships across multiple data sources, and a variety of chart types including area charts, bubble charts, lollipop charts, treemaps and animated scatter plots.
