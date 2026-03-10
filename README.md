@@ -14,4 +14,4 @@ Data analytics and machine learning portfolio covering the full data stack — f
 
 **Power BI** — multi-page interactive reports with star schema data model, drill-through, decomposition tree, time series analysis and geographic map visuals.
 
-**Tableau** — two interactive dashboards built using calculated fields, parameters, action filters, relationships across multiple data sources, and a variety of chart types including area charts, bubble charts, lollipop charts, treemaps and animated scatter plots.
+**Tableau** — two interactive dashboards built using calculated fields, parameters, action filters, relationships across data sources, and a variety of chart types including area charts, bubble charts, lollipop charts, treemaps and animated scatter plots.
