@@ -17,4 +17,4 @@ This folder contains project demonstrating Retrieval-Augmented Generation (RAG),
 
 ### NLP RAG Assistant
 
-Built a Retrieval-Augmented Generation (RAG) pipeline in Python using LangChain, OpenAI GPT-4o-mini, FAISS, and OpenAI embeddings, applying NLP and Generative AI techniques for semantic search and question-answering over regulatory document.
+Built a Retrieval-Augmented Generation (RAG) pipeline in Python using LangChain, OpenAI GPT-4o-mini, FAISS, and OpenAI embeddings, applying NLP and Generative AI techniques for semantic search and question-answering over document.
