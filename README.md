@@ -1,6 +1,6 @@
 # Portfolio
 
-Data analytics and machine learning portfolio covering the full data stack — from SQL database design and Python exploratory analysis to large-scale computing on Databricks and interactive reports in Power BI.
+Data analytics portfolio showcasing projects in SQL, Python, Machine Learning, Retrieval-Augmented Generation (RAG), Natural Language Processing (NLP), Azure Databricks, Power BI, and Tableau.
 
 ## Projects
 
