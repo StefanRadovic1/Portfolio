@@ -12,7 +12,7 @@ Data analytics portfolio showcasing projects in SQL, Python, Machine Learning, A
 
 **SQL** — relational database design with primary and foreign key constraints, analytical queries using window functions and subqueries, and views for reporting.
 
-**RAG & NLP** — Retrieval-Augmented Generation (RAG) pipeline built in Python using LangChain, OpenAI GPT-4o-mini, FAISS, and OpenAI embeddings for semantic search and context-aware question-answering over PDF documents. 
+**RAG & NLP** — Retrieval-Augmented Generation (RAG) pipeline built in Python using LangChain, OpenAI GPT-4o-mini, FAISS, and OpenAI embeddings for semantic search and context-aware question-answering over documents. 
 
 **Power BI** — multi-page interactive reports with star schema data model, drill-through, decomposition tree, time series analysis and geographic map visuals.
 
